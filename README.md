@@ -158,6 +158,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Blockchain
 
 - :bulb: [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
+- :green_book: [Learn Solidity By Example](https://solidity-by-example.org/)
 
 ---
 
@@ -259,6 +260,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
 - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
+- :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
 
 ---
 
@@ -568,6 +570,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [GraphQL tutorial for beginners](https://www.howtographql.com/)
 - :books: [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
 - :video_camera: [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
+- :video_camera: [Learn GraphQL with React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 
 ---
 
@@ -884,6 +887,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [10 react hooks explained](https://youtu.be/TNhaISOUy6Q)
 - :video_camera: [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 - :video_camera: [React JS Crash Course](https://youtube.com/watch?v=w7ejDZ8SWv8)
+- :books: [Become a React Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-developer)
 
 ---
 
@@ -896,6 +900,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [VSCode setup for React Native](https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce)
 - :green_book: [Build E-Commerce App in React Native](https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315)
 - :green_book: [How to deploy react native apps](https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7)
+- :video_camera: [React Native Tutorial For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
+- :books: [Become a React Native Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-native-developer)
 
 ---
 
